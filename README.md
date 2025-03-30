@@ -1,48 +1,94 @@
-<h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">I'm a creator.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4EFDED&center=true&center=true&width=500&lines=Hi+I'm+Sourabh;Passionate+ML+Enthusiast;Building+Real-time+AI+Models" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourbhryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="sourbhryadav1" /> </p>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f29227069337.gif" width="120" />
+  
+  # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" /> Sourabh
+  
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F74C4C&center=true&width=435&lines=ML+Researcher;AI+Explorer;Web+Developer" alt="Typing SVG" /></a>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/sourbhryadav">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://https://github.com/sourbhryadav1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sourbhr12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourbhryadav1" alt="sourbhryadav1" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## <img src="" width="30" /> About Me
 
-- 🔬 I’m currently working on **Self Driving Car Proto**
+```python
+class Sourabh:
+    def __init__(self):
+        self.location = "Delhi, India 🇮🇳"
+        self.education = "IIIT Dharwad (2023–2027)"
+        self.role = "Machine Learning Research Intern"
+        self.focus = "AI, Web Dev & Immersive Storytelling"
+        self.passions = ["Music", "Tech Innovations", "AI-powered Creativity"]
+    
+    def greet(self):
+        return "Thanks for visiting my profile! Let's collaborate on exciting projects!"
+```
 
-- 🌱 I’m currently learning **Machine Learning**
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" /> Tech Stack
 
-- 👯️ I’m looking to collaborate on **ShareSpace**
-
-- 💌 How to reach me **sourbhr12@gmail.com**
-
-- ⚡ Fun fact **I'm always up to something.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sourbhryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourbhryadav" height="30" width="40" /></a>
-<a href="https://fb.com/sourabh yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourabh yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/oyegabbru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oyegabbru" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gabbruhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gabbruhere" height="30" width="40" /></a>
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30">
+        Languages & Frameworks
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="30">  
+        Tools & Platforms
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" /> GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourbhryadav1&show_icons=true&locale=en&layout=compact" alt="sourbhryadav1" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sourabh-official&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-official&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourbhryadav1&show_icons=true&locale=en" alt="sourbhryadav1" /></p>
+## <img src="https://user-images.githubusercontent.com/74038190/216125640-2b99efd0-09d1-4fb7-8f24-6d4f7f33ee1f.png" width="30" /> Let's Connect & Build Together!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourbhryadav1&" alt="sourbhryadav1" /></p>
+<div align="center">
+  <p>
+    <b>Excited to collaborate on AI, Web Dev, and creative tech projects!</b><br>
+    Let's connect on LinkedIn or GitHub!
+  </p>
+</div>
 
-### 🐍 Snake Animation
-![Snake animation](https://github.com/sourbhryadav1/sourbhryadav1/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+
+![Funny GIF](https://img1.picmix.com/output/stamp/normal/8/3/8/4/1884838_7a563.gif)
