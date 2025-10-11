@@ -29,20 +29,17 @@
 <tr>
 <td align="center" width="33%">
   
-**🤖 ML & AI**  
-Python • TensorFlow • PyTorch • Scikit-Learn • OpenCV • NLP  
+**🤖 ML & AI** Python • TensorFlow • PyTorch • Scikit-Learn • OpenCV • NLP  
 
 </td>
 <td align="center" width="33%">
   
-**📊 Data & Tools**  
-Pandas • NumPy • Matplotlib • Kaggle • Jupyter • Colab  
+**📊 Data & Tools** Pandas • NumPy • Matplotlib • Kaggle • Jupyter • Colab  
 
 </td>
 <td align="center" width="33%">
   
-**⚙️ Platforms & Dev**  
-Docker • SQL • Raspberry Pi • Web Development  
+**⚙️ Backend & Platforms** Django • FastAPI • SQL • Raspberry Pi  
 
 </td>
 </tr>
